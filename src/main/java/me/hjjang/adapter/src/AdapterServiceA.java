@@ -1,4 +1,4 @@
-package me.hjjang.adapterPattern.src;
+package me.hjjang.adapter.src;
 
 public class AdapterServiceA {
     ServiceA sa1 = new ServiceA();

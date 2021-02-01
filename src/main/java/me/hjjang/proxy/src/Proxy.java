@@ -1,4 +1,4 @@
-package me.hjjang.proxyPattern.src;
+package me.hjjang.proxy.src;
 
 public class Proxy implements IService {
     IService service;

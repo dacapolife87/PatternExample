@@ -1,4 +1,4 @@
-package me.hjjang.decoratorPattern;
+package me.hjjang.decorator;
 
 public class Decorator implements IService{
     IService service;

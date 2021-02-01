@@ -1,4 +1,4 @@
-package me.hjjang.proxyPattern.src;
+package me.hjjang.proxy.src;
 
 public class ClientWithProxy {
     public static void main(String[] args) {

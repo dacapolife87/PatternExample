@@ -1,7 +1,7 @@
-package me.hjjang.decoratorPattern;
+package me.hjjang.proxy.src;
 
 public class Service implements IService{
     public String runSomething() {
-        return "서비스짱!!!";
+        return "서비스 짱!!!";
     }
 }

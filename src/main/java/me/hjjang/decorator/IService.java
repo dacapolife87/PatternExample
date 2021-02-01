@@ -1,4 +1,4 @@
-package me.hjjang.proxyPattern.src;
+package me.hjjang.decorator;
 
 public interface IService {
     String runSomething();

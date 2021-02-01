@@ -1,4 +1,4 @@
-package me.hjjang.decoratorPattern;
+package me.hjjang.decorator;
 
 public class ClientWithDecorator {
     public static void main(String[] args) {
